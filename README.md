@@ -255,7 +255,7 @@ streamlit run main.py
 # 5. Open http://localhost:8501 in your browser
 ```
 
-**Get your Scrapeless API key**: [Scrapeless Dashboard](https://app.scrapeless.com/dashboard/account?tab=apiKey) (Free trial: 1,000 requests)
+**Get your Scrapeless API key**: [Scrapeless Dashboard](https://app.scrapeless.com/dashboard/account?utm_source=owen) (Free trial: 1,000 requests)
 
 ### 🐳 **Option 2: Windows/Docker (Zero Setup)**
 
